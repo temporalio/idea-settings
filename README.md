@@ -1,4 +1,6 @@
-# IDEA settings repo
+# JetBrains IDEA settings repo
+
+This repo stores JetBrains IDEA settings which are shared between Temporal contributors and projects.
 
 Settings themselves are on [master](https://github.com/temporalio/idea-settings/tree/master) branch which gets overwritten with every sync.
 
@@ -12,5 +14,5 @@ Full doc from JetBrains is here: https://www.jetbrains.com/help/idea/sharing-you
     ```
     (again, these lines should **NOT** be there).
 3. Create personal token [here](https://github.com/settings/tokens) with only `public_repo` scope.
-4. Add settings repository ("File/Manage IDE Settings/Settings Repository..."): https://github.com/temporalio/idea-settings.git and click "Overwrite Local".
+4. Add settings repository "File/Manage IDE Settings/Settings Repository...": https://github.com/temporalio/idea-settings.git and click "Overwrite Local".
 5. Settings will be automatically synced with every IDE/project restart.
