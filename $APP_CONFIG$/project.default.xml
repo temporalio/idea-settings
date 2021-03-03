@@ -1,0 +1,9 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ThriftCompiler">
+        <compilers />
+      </component>
+    </defaultProject>
+  </component>
+</application>

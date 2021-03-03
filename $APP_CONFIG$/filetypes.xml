@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="config,go" type="AUTO_DETECTED" />
+      <mapping pattern="111" type="PLAIN_TEXT" />
+      <mapping ext="options" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping pattern="*.js.flow" type="Flow" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+    </data-views>
+    <general>
+      <confirm-breakpoint-removal>true</confirm-breakpoint-removal>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
+  </component>
+</application>

@@ -1,0 +1,17 @@
+<application>
+  <component name="ShowUsagesSettings">
+    <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
+    <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
+    <option name="GROUP_BY_MODULE" value="true" />
+    <option name="GROUP_BY_PACKAGE" value="true" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.5078067" />
+  </component>
+  <component name="UsageViewSettings">
+    <option name="FLATTEN_MODULES" value="false" />
+    <option name="GROUP_BY_DIRECTORY_STRUCTURE" value="true" />
+    <option name="GROUP_BY_MODULE" value="false" />
+    <option name="GROUP_BY_PACKAGE" value="false" />
+    <option name="GROUP_BY_USAGE_TYPE" value="false" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.58553654" />
+  </component>
+</application>
