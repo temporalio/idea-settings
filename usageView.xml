@@ -3,6 +3,7 @@
     <option name="SHOW_USAGES_IN_COMMENTS" value="false" />
   </component>
   <component name="ShowUsagesSettings">
+    <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
     <option name="GROUP_BY_MODULE" value="true" />
     <option name="GROUP_BY_PACKAGE" value="true" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.5078067" />
