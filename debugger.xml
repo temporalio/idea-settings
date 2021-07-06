@@ -7,5 +7,12 @@
       <confirm-breakpoint-removal>true</confirm-breakpoint-removal>
       <scroll-to-center>true</scroll-to-center>
     </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
