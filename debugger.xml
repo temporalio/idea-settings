@@ -92,6 +92,7 @@
     </data-views>
     <general>
       <confirm-breakpoint-removal>true</confirm-breakpoint-removal>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
       <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
