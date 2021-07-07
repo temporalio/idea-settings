@@ -10,6 +10,8 @@
     <option name="GROUP_CURRENT_PROJECT_IMPORTS" value="true" />
   </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="USE_FQ_CLASS_NAMES" value="true" />
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10000" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10000" />
   </JavaCodeStyleSettings>
