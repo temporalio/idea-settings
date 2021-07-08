@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Module 'temporalio.temporal-sdk.main'" />
+    <option name="defaultScopeName" value="Module 'temporalio.temporal-sdk.main'" />
     <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Module 'temporalio.temporal-sdk.main'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
