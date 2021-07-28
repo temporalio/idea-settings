@@ -1,0 +1,9 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
