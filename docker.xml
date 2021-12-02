@@ -1,5 +1,0 @@
-<application>
-  <component name="DockerSettings">
-    <option name="dockerPath" value="/usr/bin/docker" />
-  </component>
-</application>
