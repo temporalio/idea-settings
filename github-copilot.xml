@@ -1,0 +1,33 @@
+<application>
+  <component name="github-copilot">
+    <option name="signinNotificationShown" value="true" />
+    <disabledLanguages>
+      <option value="Docker" />
+      <option value="Dockerfile" />
+      <option value="GenericSQL" />
+      <option value="Git" />
+      <option value="GoBuild" />
+      <option value="GoPlusBuild" />
+      <option value="GoRegExp" />
+      <option value="GoTag" />
+      <option value="GoTemplate" />
+      <option value="GoTime" />
+      <option value="JSON" />
+      <option value="JSON Lines" />
+      <option value="Makefile" />
+      <option value="MySQL" />
+      <option value="MySQL based" />
+      <option value="PostgreSQL" />
+      <option value="RegExp" />
+      <option value="SQL" />
+      <option value="SQLite" />
+      <option value="Shell Script" />
+      <option value="TEXT" />
+      <option value="cgo" />
+      <option value="go" />
+      <option value="protobuf" />
+      <option value="yaml" />
+    </disabledLanguages>
+    <option name="telemetryTermsAcceptedDate" value="2021-12-07T09:11:41.607976-08:00[America/Los_Angeles]" />
+  </component>
+</application>
