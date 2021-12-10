@@ -24,7 +24,6 @@
       <option value="Shell Script" />
       <option value="TEXT" />
       <option value="cgo" />
-      <option value="go" />
       <option value="protobuf" />
       <option value="yaml" />
     </disabledLanguages>
