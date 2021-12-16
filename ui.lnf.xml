@@ -2,13 +2,14 @@
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="25" />
+    <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
