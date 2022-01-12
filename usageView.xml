@@ -3,6 +3,9 @@
     <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.5078067" />
   </component>
+  <component name="UsageFilteringRuleState">
+    <option value="com.intellij.usages.impl.rules.ReadAccessFilteringRule" />
+  </component>
   <component name="UsageViewSettings">
     <option name="IS_EXPANDED" value="true" />
     <option name="FLATTEN_MODULES" value="false" />
