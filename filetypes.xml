@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="mapper_test" type="AUTO_DETECTED" />
+      <mapping pattern="workflow.go" type="AUTO_DETECTED" />
       <mapping pattern="noop_logger" type="AUTO_DETECTED" />
       <mapping pattern="config,go" type="AUTO_DETECTED" />
       <mapping pattern="111" type="PLAIN_TEXT" />
