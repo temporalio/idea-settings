@@ -1,5 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/github.com/alexshtin/temporal/service/worker/deletenamespace/deleteexecutions/workflow.go" value="Go" />
+    <file url="file://$USER_HOME$/github.com/alexshtin/temporal/service/worker/deletenamespace/reclaimresources/workflow.go" value="Go" />
     <file url="file://$USER_HOME$/github.com/alexshtin/temporal/service/worker/deletenamespace/workflow.go" value="Go" />
   </component>
 </application>

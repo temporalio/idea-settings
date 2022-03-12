@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="mapper_test" type="AUTO_DETECTED" />
-      <mapping pattern="workflow.go" type="AUTO_DETECTED" />
-      <mapping pattern="noop_logger" type="AUTO_DETECTED" />
-      <mapping pattern="config,go" type="AUTO_DETECTED" />
-      <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern="111" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="config,go" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="mapper_test" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="noop_logger" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="workflow.go" approved="true" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
