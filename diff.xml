@@ -37,6 +37,11 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="ChangesToolWindowPreview">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
       <entry key="VcsFileHistoryView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
